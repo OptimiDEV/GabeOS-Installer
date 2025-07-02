@@ -37,4 +37,4 @@ Additional optional (but recommended) packages:
 ## 🚀 Installation
 
 ```bash
-bash <(curl -s https://raw.githubusercontent.com/OptimiDev/hyprdot-installer/main/install.sh)
+bash <(curl -s https://raw.githubusercontent.com/OptimiDev/hyprdot/main/install.sh)
