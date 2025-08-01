@@ -1,6 +1,9 @@
 #!/bin/bash
 set -e
 
+# (C) Alex Mueller
+# This software is licensed under FucKv2(Fully Unrestricted Copyleft Knowledge Version 2)
+
 echo '''  _    _                     _       _    '''
 echo ''' | |  | |                   | |     | |   '''
 echo ''' | |__| |_   _ _ __  _ __ __| | ___ | |_  '''
