@@ -4,7 +4,7 @@ set -e
 # (C) Alex Mueller
 #    This software is licensed under the FucKv2 License.
 #
-#    See the full text at: https://github.com/OptimiDEV/GabeOS-Installer/edit/main/install.sh
+#    See the full text at: https://github.com/OptimiDEV/GabeOS-Installer/blob/main/LICENSE
 
 echo '''  _    _                     _       _    '''
 echo ''' | |  | |                   | |     | |   '''
